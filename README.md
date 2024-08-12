@@ -30,7 +30,7 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/restaurant-recommendation-system.git
+   git clone https://github.com/shreyyyyy/restaurant-recommendation-system.git
    cd restaurant-recommendation-system
 
 
